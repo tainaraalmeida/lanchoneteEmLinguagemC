@@ -23,10 +23,10 @@ setlocale(LC_ALL, "");
     printf("                                    |  101:      Bauru Simples     R$2.30 |\n");
     printf("                                    |  102:      Bauro com ovo     R$2.60 | \n");
     printf("                                    |  103:      Hambúrguer        R$2.40 | \n");
-    printf("                                    |  104: 	 Cheesburguer      R$2.50 | \n");
-    printf("                                    |  105: 	 Refrigerante      R$1.00 | \n");
+    printf("                                    |  104:      Cheesburguer      R$2.50 | \n");
+    printf("                                    |  105:      Refrigerante      R$1.00 | \n");
     printf("                                    |                                     | \n");
-	printf("                                    |------------------------------------ | \n \n");
+    printf("                                    |------------------------------------ | \n \n");
      
 
 
